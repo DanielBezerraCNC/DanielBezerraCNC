@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <i>Estudante de Ciência da Computação · Recife-PE 🇧🇷</i>
+  <i>Estudante de Ciência da Computação da CESAR School · Recife-PE BR</i>
 </p>
 
 ---
