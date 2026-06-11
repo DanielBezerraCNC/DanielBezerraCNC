@@ -1,6 +1,6 @@
-## Hi there 👋
+## Daniel's Github
 
 
 <p align="center">
-  <img src="https://i.imgur.com/WaX7cTu.jpeg" alt="Daniel Santana Bezerra" width="100%">
+  <img src="https://i.imgur.com/U4ETZoW.png" alt="Daniel Santana Bezerra" width="100%">
 </p>
