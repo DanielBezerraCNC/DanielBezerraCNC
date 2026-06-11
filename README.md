@@ -42,7 +42,7 @@
 
 ### 📫 Contato
 
-- 💼 LinkedIn: [Daniel Santana Bezerra](https://www.linkedin.com/in/daniel-santana-bezerra-795a0b334/)
+- 💼 LinkedIn: [Daniel Santana Bezerra](www.linkedin.com/in/danielsantanabezerra)
 - 📧 E-mail: danielbezerrag6@gmail.com
 
 <p align="center">
